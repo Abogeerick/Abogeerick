@@ -5,19 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://erick-aboge-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-aboge-3a09572a6)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abogeerick@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Abogeerick&color=blue&style=for-the-badge)
 
----
-
-## 📊 GitHub Stats
-
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abogeerick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abogeerick&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abogeerick&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🚀 What I Do
 
